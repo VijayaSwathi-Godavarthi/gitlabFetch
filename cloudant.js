@@ -106,7 +106,7 @@ console.log(CLOUDANT_USERNAME);
               }
 
         });
-       // console.log(ProjNameCloud+ '  '  + TimestampCloud);
+       // console.log(ProjNameCloud+ '  '  + TimestampCloud);//
       }
     })
   };
